@@ -10,8 +10,8 @@ To write a C function to calculate the turnaround time of each process given the
 
 ## Program:
 ```c
-Developed by: MUKESH R
-RegisterNumber: 212224240098
+Developed by: SARISH VARSHAN V
+RegisterNumber: 212223230196
 ```
 ```c
 
